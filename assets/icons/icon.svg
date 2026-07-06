@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bassline Swarm icon">
+  <rect width="512" height="512" rx="96" fill="#02030a"/>
+  <path d="M82 336c54-62 106-62 160 0s108 62 188 0" fill="none" stroke="#64e8ff" stroke-width="28" stroke-linecap="round"/>
+  <path d="M96 210l64-68 64 68-64 68z" fill="#ff5bbd"/>
+  <path d="M292 124l96 56v112l-96 56-96-56V180z" fill="none" stroke="#a6ff72" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M256 214l38 76h-76z" fill="#ffd96b"/>
+</svg>

@@ -1,0 +1,9 @@
+Put your own looping MP3 here and name it:
+
+bassline-loop.mp3
+
+The game looks for:
+
+assets/music/bassline-loop.mp3
+
+Do not rename the file unless you also update the path in index.html.

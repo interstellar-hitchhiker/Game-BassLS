@@ -1,0 +1,19 @@
+{
+  "name": "Bassline Swarm",
+  "short_name": "Bassline",
+  "description": "A neon arcade shooter with streaming DnB radio and optional local MP3 loops.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#02030a",
+  "theme_color": "#02030a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
